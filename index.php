@@ -59,7 +59,7 @@ $txt = "0123456789";
  </pre>
 </p>
 <form action="index.php" method="get">
-<input type="text" name="md5" size="60" placeholder="Aa.." />
+<input type="text" name="md5" size="40" placeholder="Aa.." />
 <input type="submit" value="Crack MD5"/>
 </form>
 <ul>
